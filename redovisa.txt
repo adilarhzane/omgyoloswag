@@ -1,0 +1,6 @@
+Till torsdag 18/9:
+
+W57: Behärska grundläggande versionshantering - Git
+T53: Använda emacs för editering
+V56: Terminalkommandon
+S52: LaTeX
